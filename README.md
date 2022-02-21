@@ -4,7 +4,7 @@ A small program as a part of the recruiting process at Etimo
 
 ## Getting Started
 
-To use the program, enter these commands in the terminal. If on windows, please enter the commands using Windows Subsystem for Linux.
+To use the program, clone the repo and enter these commands in the terminal in the directory of the project. If on windows, please enter the commands using Windows Subsystem for Linux.
 
 ### Prerequisites
 
