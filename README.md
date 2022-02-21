@@ -1,6 +1,6 @@
 # Etimo Case
 
-Ett litet program som är en del i rekryteringsprocessen hos Etimo
+A small program as a part of the recruiting process at Etimo
 
 ## Getting Started
 
